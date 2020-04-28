@@ -12,7 +12,7 @@ with python 3.
 
 ### Installing
 
-The results of all models suggest that GPU is better than CPU when we the number
+The results of all models suggest that GPU is better than CPU when the number
 of parameters is high.
 So make sure that you install the GPU version of TensorFlow backend:
 
